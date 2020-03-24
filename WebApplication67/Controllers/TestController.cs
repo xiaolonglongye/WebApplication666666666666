@@ -21,5 +21,10 @@ namespace WebApplication67.Controllers
         {
             return View();
         }
+
+        public ActionResult GitHub()
+        {
+            return View();
+        }
     }
 }
